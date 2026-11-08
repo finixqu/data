@@ -50,17 +50,7 @@ const updateValue = async () => {
             await fs.writeFile(filePath, JSON.stringify(data, null, 3))
             console.log(`Berhasil update: ${filePath}`);
         }
-        
 
-            
-        //gagal karena to many request
-        // const newData = data.map( async (item) => {
-        //     const description =  await ambilMetaDesc(item.loc)
-
-            
-        // })
-
-        
     } catch (error) {
         console.error(error)
     }

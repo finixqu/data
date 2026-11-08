@@ -42,8 +42,6 @@ const ambilData = async () => {
                     const dataHasil = item[1]
 
                     const link = ambilValue(dataHasil, 'loc')
-                    // const description = await ambilMetaDesc(link)
-
 
                     return{
                         loc: ambilValue(dataHasil, 'loc'),
