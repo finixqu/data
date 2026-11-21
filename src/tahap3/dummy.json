@@ -1,0 +1,21 @@
+[
+    {
+        "https://www.kompas.com/sitemap-basic.xml": {
+            "loc":  "nilai || null",
+            "lastmod":  "nilai || null",
+            "image": "nilai" || null",
+
+            "news": "nilai ? {
+                "publication": {
+                    "name": "nilai || null",
+                    "language": "nilai || null"
+                },
+                "publication_date": "nilai || null",
+                "title": "nilai || null",
+                "keywords": "nilai?.split(',').map(item => item.trim()) || null"
+            } : null",
+            "description": "nilai"
+},
+        "lastmod": "date"
+    }
+]

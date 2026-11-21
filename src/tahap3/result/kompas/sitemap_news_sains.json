@@ -1,0 +1,53 @@
+[
+   {
+      "sitemap_loc": "https://www.kompas.com/sitemap-news-sains.xml",
+      "sitemap_lastmod": "2026-11-20 15:23:13",
+      "loc": "https://www.kompas.com/sains/read/2026/10/05/222313723/mengapa-di-makan-malam-ini-semua-orang-memakai-earphone",
+      "lastmod": null,
+      "image": "https://asset.kompas.com/crops/nIE0H1hB9-C2P72sfwKXhLRnOqU=/0x48:1448x1014/1200x800/data/photo/2026/10/05/6ac3bc8f810fc.png",
+      "news": {
+         "publication": {
+            "name": "KOMPAS.com",
+            "language": "id"
+         },
+         "publication_date": "2026-10-05 15:23:13",
+         "title": "Mengapa di Makan Malam Ini Semua Orang Memakai Earphone?",
+         "keywords": null
+      },
+      "description": "Bukan untuk mendengarkan musik. Earphone ini dipakai agar semua tamu bisa mendengar suara chef tanpa membuat ruangan menjadi bising."
+   },
+   {
+      "sitemap_loc": "https://www.kompas.com/sitemap-news-sains.xml",
+      "sitemap_lastmod": "2026-11-20 15:23:13",
+      "loc": "https://www.kompas.com/sains/read/2026/09/27/202508223/fougere-aroma-parfum-pakis-yang-tak-pernah-benar-benar-ada",
+      "lastmod": null,
+      "image": "https://asset.kompas.com/crops/tv4YdFB8fzmEpjZY8me8zkLJiJs=/0x0:1536x1024/1200x800/data/photo/2026/09/27/6ab918680841f.png",
+      "news": {
+         "publication": {
+            "name": "KOMPAS.com",
+            "language": "id"
+         },
+         "publication_date": "2026-09-27 13:25:08",
+         "title": "Fougere, Aroma Parfum “Pakis” yang Tak Pernah Benar-benar Ada",
+         "keywords": null
+      },
+      "description": "Disebut berasal dari bahasa Prancis untuk “pakis”, fougere justru merupakan aroma khayalan. Seperti apa sebenarnya karakter wanginya?"
+   },
+   {
+      "sitemap_loc": "https://www.kompas.com/sitemap-news-sains.xml",
+      "sitemap_lastmod": "2026-11-20 15:23:13",
+      "loc": "https://www.kompas.com/sains/read/2026/09/11/201116023/mengenal-challenger-deep-titik-terdalam-lautan-di-bumi",
+      "lastmod": null,
+      "image": "https://asset.kompas.com/crops/vtzgLtoy3kmnmvy3SwFrUlndxQc=/0x0:1200x800/1200x800/data/photo/2026/09/11/6aa3fd16c5e4d.png",
+      "news": {
+         "publication": {
+            "name": "KOMPAS.com",
+            "language": "id"
+         },
+         "publication_date": "2026-09-11 13:11:16",
+         "title": "Mengenal Challenger Deep, Titik Terdalam Lautan di Bumi",
+         "keywords": null
+      },
+      "description": "Mengenal Challenger Deep, titik terdalam di Palung Mariana dengan kedalaman sekitar 10.935 meter. Simak sejarah penyelaman titik terdalam di lautan."
+   }
+]
